@@ -1,0 +1,26 @@
+설치프로그램
+
+- [] npm 및 express 모듈셋팅후 
+	testapi 서버코딩
+	- [완료] npm 설치
+	- [완료] express-generator 설치 
+		및 app생성 및 npm install
+
+- [] postman 설치
+- [] spring boot restapi 프로젝트 셋팅
+	get,post,파일업로드
+
+
+- [완료] 도커, 오라클 설치
+- [완료] dbever 설치
+- [완료] visual studio code 설치
+
+- [완료]notepadd 2
+	jsonviewer 플러그인 설치
+	
+- [완료]크롬
+- [완료]알약
+- [완료]7zip
+
+- 602호 wifi정보
+  /hd8bhg8055
